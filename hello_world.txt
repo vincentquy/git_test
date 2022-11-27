@@ -1,3 +1,5 @@
-some text
+Some text
 
-add some text from home PC
+Add some text from home PC.
+
+Add some more text. Fix grammar error.
