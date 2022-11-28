@@ -3,3 +3,5 @@ Some text
 Add some text from home PC.
 
 Add some more text. Fix grammar error.
+
+Install Linux on a spare drive. Testing github on Linux. Working perfectly.
